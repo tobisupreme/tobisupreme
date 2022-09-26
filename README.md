@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- --- -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tobisupreme&label=Profile%20Visits&color=0e75b6&style=flat" alt="Number of visits to tobisupreme's GitHub" /> </p>
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=tobisupreme&show_icons=true&include_all_commits=true&hide_border=true" alt="Tobi's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobisupreme&langs_count=8&layout=compact&hide_border=true" alt="Tobi's GitHub stats" /> |
 | ------------- | ------------- |
